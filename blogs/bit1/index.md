@@ -12,7 +12,7 @@ $0\ l\ r\ w\ \ \  $:$f_{l..r}+=w$
 
 $1\ x\ \ \ \ \ \ \ \ $:Ask $f_x$
 
-#### [Sample](\sample\)
+#### [Sample](https://hhuhao.github.io/blogs/bit1/Sample)
 
 #### Constraints
 
@@ -36,5 +36,5 @@ $1$:
 query(x);
 ```
 
-#### [Code](\code\)
+#### [Code](https://hhuhao.github.io/blogs/bit1/code)
 
