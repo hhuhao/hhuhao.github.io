@@ -12,7 +12,7 @@ $0\ l\ r\ w\ \ \  $:$f_{l..r}+=w$
 
 $1\ x\ \ \ \ \ \ \ \ $:Ask $f_x$
 
-#### [Sample](https://hhuhao.github.io/blogs/bit1/Sample)
+#### [Sample](https://hhuhao.github.io/blogs/bit1/sample)
 
 #### Constraints
 
